@@ -4,4 +4,4 @@
 
 [come rollerskating with me!](http://www.calgaryrollerskate.com/public-skate-2/)
 
-[see me rollerskate](merollerskating.jpg)
+[see me rollerskate](/New%20folder/merollerskating.jpg)
