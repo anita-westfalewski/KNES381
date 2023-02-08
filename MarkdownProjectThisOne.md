@@ -1,4 +1,4 @@
-<h1 align="center">Rollerskating is Cool</h1>
+<h1 align="center">Rollerskating is Cool!</h1>
 <p> my favourite thing to do is rollerskating 😎 </p>
 <p> ✨ <ins>YOU</ins> could go to a roller rink in Calgary ✨ </p>
 <img align="right" width="450" height= "300" src=https://www.thebentway.ca/wp-content/uploads/2021/06/retro-rolla-roller-skate-rental-toronto-4.jpg>
