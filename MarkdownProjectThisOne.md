@@ -5,6 +5,8 @@
 
 [a super fun super cool roller rink](http://www.calgaryrollerskate.com/public-skate-2/)
 
+[you'll want to take a look at this!](readme.md)
+
 <p> Rollerskating can improve your V<span>&#775;</span>0<sub>2</sub>max! 💪 💥 </p>
 
 <img align ="left" width="140" height="200" src="New folder/merollerskating.jpg">
