@@ -7,7 +7,7 @@
 
 [see me rollerskate](/New%20folder/merollerskating.jpg)
 
-<img align ="left" width="125" height="200" src="New Folder/merollerskating.jpeg">
-
 <p> Rollerskating can improve your V<span>&#775;</span>0<sub>2</sub>max! 💪 💥 </p>
 
+<img align ="left" width="140" height="200" src="New folder/merollerskating.jpg">
+<p> ⬅️ click this photo to see me rollerskate! </p>
